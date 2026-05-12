@@ -9,11 +9,6 @@
 
 A feature-rich smartwatch firmware for the **Waveshare ESP32-S3 Touch AMOLED 2.06"** board. Combines BLE phone connectivity, media playback, notifications, productivity apps, GB emulator. 10+ hrs of battery life when used as a watch (auto light sleep, wrist raise to wake, BLE notifications active).
 
-<div align="center">
-<video src="https://github.com/user-attachments/assets/6be8aa86-376f-47b8-aba7-09ff3d798f3a" width="203" controls></video>
-  
-</div>
-
 ---
 
 ## Features
@@ -136,6 +131,11 @@ Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tab
 - **Wrist raise to wake** — IMU gesture detection wakes the display when the watch is raised to viewing position
 - **Light sleep** — auto light sleep achieves 10+ hours battery life with BLE paired and notifications active
 
+---
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/6be8aa86-376f-47b8-aba7-09ff3d798f3a" controls></video>
+</div>
 
 ---
 
