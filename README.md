@@ -17,8 +17,6 @@ A feature-rich smartwatch firmware for the **Waveshare ESP32-S3 Touch AMOLED 2.0
 
 Four distinct watchfaces, swipeable from the main screen. Each has its own aesthetic, notification integration, and interactive elements.
 
-<img src="screenshots/WatchfaceA1.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceB.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceC.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceD1.png" width="231" height="278" hspace="10">
-
 ---
 
 #### Face A — Circuit
@@ -28,7 +26,7 @@ PCB-trace aesthetic with animated signal pulses.
 - **12-cell pixel battery gauge**
 - **Guitar Hero mini-game** — tap the lane buttons to hit falling segments; score tracked per round
 
-<img src="screenshots/WatchfaceA2.png" width="231" height="278" hspace="10">
+<img src="screenshots/WatchfaceA1.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceA2.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -37,6 +35,8 @@ Bold headline-style layout with scrolling data rows.
 
 - Two news-banner scroller rows showing live system data (heap/PSRAM/audio, battery/BLE)
 - Notification mode switches banner rows to show app name and notification title
+
+<img src="screenshots/WatchfaceB.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -47,6 +47,8 @@ Dense terminal/HUD layout.
 - **Time-as-words** row (e.g. "TWENTY THREE FORTY")
 - Three fill bars: **ENRG** (battery), **MZK** (music playback elapsed), **DIST** (heap free)
 - Notification content embedded directly into rows (app, title, body)
+
+<img src="screenshots/WatchfaceC.png" width="231" height="278" hspace="10">
 
 ---
 
