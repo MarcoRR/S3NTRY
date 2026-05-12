@@ -10,7 +10,7 @@
 A feature-rich smartwatch firmware for the **Waveshare ESP32-S3 Touch AMOLED 2.06"** board. Combines BLE phone connectivity, media playback, notifications, productivity apps, GB emulator. 10+ hrs of battery life when used as a watch (auto light sleep, wrist raise to wake, BLE notifications active).
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/cae2e1a0-44d8-4ecc-84c2-b8588a834591" width="300" controls></video>
+<video src="https://github.com/user-attachments/assets/cae2e1a0-44d8-4ecc-84c2-b8588a834591" width="203" controls></video>
 </div>
 
 ---
