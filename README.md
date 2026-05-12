@@ -119,7 +119,7 @@ Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tab
 <img src="screenshots/Todo1.png" width="231" height="278" hspace="10"><img src="screenshots/Todo2.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeTodoNet.png" width="231" height="278" hspace="10">
 
 ### Game Boy Emulator
-- Play `.GB` and `.GBC` ROM files from microSD
+- Play `.GB` ROM files from microSD
 - 2x scale mode (320×288)
 - Two control modes: semi-transparent D-pad overlay, or swipe-gesture controls (swipe = D-pad, tap zones = A/B at the bottom, start select at the top)
 - Save state support for cart RAM
