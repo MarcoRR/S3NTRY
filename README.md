@@ -99,7 +99,7 @@ Watchface A,B and C and every UI screen share a single color system. Four varian
 Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tablet.
 
 - **Touchpad mode** — drag a finger across the screen for relative mouse movement; tap to left-click
-- **Keyboard mode** — full on-screen keyboard (compact and full layout) sends BLE HID keystrokes directly to the connected device
+- **Keyboard mode** — full on-screen keyboard (compact and full layout)
 
 <img src="screenshots/RemoteTouchpad.png" width="231" height="278" hspace="10"><img src="screenshots/RemoteKeyboard1.png" width="231" height="278" hspace="10"><img src="screenshots/RemoteKeyboard2.png" width="231" height="278" hspace="10">
 
