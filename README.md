@@ -3,7 +3,7 @@
 
 <img src="screenshots/title.svg">
 
-<img src="screenshots/photo_r.png" width="595" height="250" style="margin:20px">
+<img src="screenshots/photo_r.png" width="595" height="250" hspace="10">
 
 </div>
 
@@ -17,7 +17,7 @@ A feature-rich smartwatch firmware for the **Waveshare ESP32-S3 Touch AMOLED 2.0
 
 Four distinct watchfaces, swipeable from the main screen. Each has its own aesthetic, notification integration, and interactive elements.
 
-<img src="screenshots/WatchfaceA1.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceB.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceC.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceD1.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/WatchfaceA1.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceB.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceC.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceD1.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -28,7 +28,7 @@ PCB-trace aesthetic with animated signal pulses.
 - **12-cell pixel battery gauge**
 - **Guitar Hero mini-game** — tap the lane buttons to hit falling segments; score tracked per round
 
-<img src="screenshots/WatchfaceA2.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/WatchfaceA2.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -59,7 +59,7 @@ Dense terminal/HUD layout.
 - **Night Sky** - Visible constellations and stars
 - **Notification panel** — slides up from the bottom with message content
 
-<img src="screenshots/WatchfaceD1.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceD2.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceD3.png" width="231" height="278" style="margin:20px"><img src="screenshots/WatchfaceD4.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/WatchfaceD1.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceD2.png" width="231" height="278" hspace="10"><img src="screenshots/WatchfaceD3.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -67,7 +67,7 @@ Dense terminal/HUD layout.
 
 Watchface A,B and C and every UI screen share a single color system. Four variants are available and switchable from Settings
 
-<img src="screenshots/ThemeWatchfaceACor.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeWatchfaceBNet.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeWatchfaceCAra.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeAppMenuAra.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeAppMenuCor.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeAppMenuNet.png" width="231" height="278" style="margin:20px"><img src="screenshots/AppMenu.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeTimerAra.png" width="231" height="278" style="margin:20px"><img src="screenshots/Timer.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeAlarmCor.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/ThemeWatchfaceACor.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeWatchfaceBNet.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeWatchfaceCAra.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeAppMenuAra.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeAppMenuCor.png" width="231" height="278" hspace="10"><img src="screenshots/AppMenu.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeTimerAra.png" width="231" height="278" hspace="10"><img src="screenshots/Timer.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeAlarmCor.png" width="231" height="278" hspace="10">
 
 ---
 
@@ -77,7 +77,7 @@ Watchface A,B and C and every UI screen share a single color system. Four varian
 - **Per-app muting** — silence specific apps
 - Metadata displayed: app name, title, body, timestamp
 
-<img src="screenshots/NotificationWatchfaceA.png" width="231" height="278" style="margin:20px"><img src="screenshots/NotificationWatchfaceB.png" width="231" height="278" style="margin:20px"><img src="screenshots/NotificationWatchfaceC.png" width="231" height="278" style="margin:20px"><img src="screenshots/NotificationWatchfaceD.png" width="231" height="278" style="margin:20px"><img src="screenshots/NotificationsScreenB.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/NotificationWatchfaceA.png" width="231" height="278" hspace="10"><img src="screenshots/NotificationWatchfaceB.png" width="231" height="278" hspace="10"><img src="screenshots/NotificationWatchfaceC.png" width="231" height="278" hspace="10"><img src="screenshots/NotificationWatchfaceD.png" width="231" height="278" hspace="10"><img src="screenshots/NotificationsScreenB.png" width="231" height="278" hspace="10">
 
 ### Music Player
 - Plays **MP3 and WAV files** from microSD card
@@ -86,7 +86,7 @@ Watchface A,B and C and every UI screen share a single color system. Four varian
 - Transport controls: play / pause / next / previous / stop
 - **Shuffle** and **repeat** modes (off / one / all)
 
-<img src="screenshots/MusicPlayer1.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/MusicPlayer1.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeMusicAra.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeMusicCor.png" width="231" height="278" hspace="10">
 
 ### iPhone Media Remote (AMS)
 - Control iPhone music playback from the watch over BLE
@@ -99,14 +99,14 @@ Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tab
 - **Touchpad mode** — drag a finger across the screen for relative mouse movement; tap to left-click
 - **Keyboard mode** — full on-screen keyboard (compact and full layout) sends BLE HID keystrokes directly to the connected device
 
-<img src="screenshots/RemoteTouchpad2.png" width="231" height="278" style="margin:20px"><img src="screenshots/RemoteTouchpad.png" width="231" height="278" style="margin:20px"><img src="screenshots/RemoteKeyboard1.png" width="231" height="278" style="margin:20px"><img src="screenshots/RemoteKeyboard2.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/RemoteTouchpad.png" width="231" height="278" hspace="10"><img src="screenshots/RemoteKeyboard1.png" width="231" height="278" hspace="10"><img src="screenshots/RemoteKeyboard2.png" width="231" height="278" hspace="10">
 
 ### Alarms & Timers
 - **Alarms (NEXUS)** — set time-of-day alarms; fires with a beep tone or a custom audio file from SD card
 - **Timers (FUSE)** — countdown timers with audio alert on completion
 - **Stopwatch (TRACE)** — lap timing
 
-<img src="screenshots/Alarm.png" width="231" height="278" style="margin:20px"><img src="screenshots/Timer.png" width="231" height="278" style="margin:20px"><img src="screenshots/Stopwatch.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/Alarm.png" width="231" height="278" hspace="10"><img src="screenshots/Timer.png" width="231" height="278" hspace="10"><img src="screenshots/Stopwatch.png" width="231" height="278" hspace="10">
 
 ### Todo List
 - Add, complete, and delete tasks
@@ -114,7 +114,7 @@ Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tab
 - Persists to `/sdcard/todos.json` — survives reboots
 - **iPhone Reminders integration** — incoming iPhone Reminders notifications are automatically parsed and added as todo items
 
-<img src="screenshots/Todo1.png" width="231" height="278" style="margin:20px"><img src="screenshots/Todo2.png" width="231" height="278" style="margin:20px"><img src="screenshots/ThemeTodoNet.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/Todo1.png" width="231" height="278" hspace="10"><img src="screenshots/Todo2.png" width="231" height="278" hspace="10"><img src="screenshots/ThemeTodoNet.png" width="231" height="278" hspace="10">
 
 ### Game Boy Emulator
 - Play `.GB` and `.GBC` ROM files from microSD
@@ -122,7 +122,7 @@ Use the watch as a wireless trackpad and keyboard for any paired PC, Mac, or tab
 - Two control modes: semi-transparent D-pad overlay, or swipe-gesture controls (swipe = D-pad, tap zones = A/B at the bottom, start select at the top)
 - Save state support for cart RAM
 
-<img src="screenshots/GBemu3.png" width="231" height="278" style="margin:20px"><img src="screenshots/GBemu.png" width="231" height="278" style="margin:20px">
+<img src="screenshots/GBemu3.png" width="231" height="278" hspace="10"><img src="screenshots/GBemu.png" width="231" height="278" hspace="10">
 
 ### Others
 - **BLE Current Time Service** — sync time directly from paired phone
